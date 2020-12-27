@@ -1,0 +1,26 @@
+{
+  "name": "supply-chain-exercise-sergewilfried",
+  "version": "1.0.0",
+  "description": "supply chain",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "start:dev": "ganache-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CA-bootcamp-s19/supply-chain-exercise-SergeWilfried.git"
+  },
+  "author": "sw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CA-bootcamp-s19/supply-chain-exercise-SergeWilfried/issues"
+  },
+  "homepage": "https://github.com/CA-bootcamp-s19/supply-chain-exercise-SergeWilfried#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.1"
+  }
+}
